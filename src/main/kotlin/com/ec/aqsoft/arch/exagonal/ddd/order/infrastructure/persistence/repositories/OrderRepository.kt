@@ -1,4 +1,4 @@
-package com.ec.aqsoft.arch.exagonal.ddd.order.application.persistence.repositories
+package com.ec.aqsoft.arch.exagonal.ddd.order.infrastructure.persistence.repositories
 
 import com.ec.aqsoft.arch.exagonal.ddd.order.domain.Order
 import com.ec.aqsoft.arch.exagonal.ddd.order.domain.ports.IOrderRepository

@@ -1,4 +1,4 @@
-package com.ec.aqsoft.arch.exagonal.ddd.order.application.persistence.entities
+package com.ec.aqsoft.arch.exagonal.ddd.order.infrastructure.persistence.entities
 
 import com.ec.aqsoft.arch.exagonal.ddd.order.domain.Order
 

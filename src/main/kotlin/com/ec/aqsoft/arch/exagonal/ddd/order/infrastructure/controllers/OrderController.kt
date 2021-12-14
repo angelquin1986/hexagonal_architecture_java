@@ -1,4 +1,4 @@
-package com.ec.aqsoft.arch.exagonal.ddd.order.application.controllers
+package com.ec.aqsoft.arch.exagonal.ddd.order.infrastructure.controllers
 
 import com.ec.aqsoft.arch.exagonal.ddd.order.domain.Order
 import com.ec.aqsoft.arch.exagonal.ddd.order.domain.service.OrderService
