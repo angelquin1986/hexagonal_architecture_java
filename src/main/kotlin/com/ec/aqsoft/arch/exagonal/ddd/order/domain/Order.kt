@@ -5,4 +5,5 @@ data class Order (
     val rappiId: Int,
     var nameRt:String,
     var status: Int
+
 )
